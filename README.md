@@ -20,4 +20,6 @@ $ sudo rmmod myled
 $ echo 1 > /dev/myled0
 ```
 ### LED消灯
+```
 $ echo 0 > /dev/myled0
+```

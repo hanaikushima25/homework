@@ -5,3 +5,6 @@ myled.ko: myled.c
 
 clean:
 	make -C /usr/src/linux-headeers-`uname -r` M=`pwd` V=1 modules
+text2
+text1
+text1

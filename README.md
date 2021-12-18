@@ -3,6 +3,13 @@
 ## 環境
   - Raspberry Pi 4 Computer Model B
   - OS:ubuntu 18.04 LTS
+## 使用したもの
+ Raspberry Pi 4 Computer Model B
+ LED x1
+ 抵抗330Ω x1
+ オスメスジャンパワイヤ x2
+ オスメスジャンパワイヤ x2
+ ブレッドボード x1
 ## 実行
 ### インストール
 ```

@@ -74,25 +74,13 @@ static int __init init_mod(void)
 
 static void __exit cleanup_mod(void)
 {
-<<<<<<< HEAD
 	cdev_del(&cdv);
 	device_destroy(cls,dev);
         class_destroy(cls);
 	unregister_chrdev_region(dev, 1);
 	printk(KERN_INFO "%s is unloaded.major:%d\n",__FILE__,MAJOR(dev));
-=======
-  cdev_del(&cdv);
-  device_destroy(cls,dev);
-  class_destroy(cls);
-  unregister_chrdev_region(dev, 1);
-  printk(KERN_INFO"%s is unloaded. major:%d\n",__FILE__,MAJOR(dev));
->>>>>>> a2db0b2dee97287501430bab00f4e3305dbb6e38
 }
 
 module_init(init_mod);
 module_exit(cleanup_mod);
     
-<<<<<<< HEAD
-=======
-    
->>>>>>> a2db0b2dee97287501430bab00f4e3305dbb6e38

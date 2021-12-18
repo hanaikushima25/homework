@@ -25,6 +25,8 @@ $ echo 1 > /dev/myled0
 ```
 $ echo 0 > /dev/myled0
 ```
+## 実行結果
+  Youtube: https://www.youtube.com/watch?v=_Pf2KzTTuEA
 ## 文責
  - Hana Ikushima
  - s20C1006NU@s.chibakoudai.jp

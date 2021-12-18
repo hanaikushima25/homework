@@ -1,7 +1,7 @@
 # ロボットシステム学2021年度課題１
 2021年度ロボットシステム学の課題1で作成したデバイスドライバです。
 ## 環境
-  - Rasberry Pi 4 Computer Model B
+  - Raspberry Pi 4 Computer Model B
   - OS:ubuntu 18.04 LTS
 ## インストール＆アンインストール
 ### インストール
@@ -25,3 +25,6 @@ $ echo 1 > /dev/myled0
 ```
 $ echo 0 > /dev/myled0
 ```
+## Author
+ - Hana Ikushima
+ - https://tips-memo.com/python-readme

@@ -3,7 +3,7 @@
 ## 環境
   - Raspberry Pi 4 Computer Model B
   - OS:ubuntu 18.04 LTS
-## インストール＆アンインストール
+## 実行
 ### インストール
 ```
 $ git clone git@github.com:hanaikushima25/myled.git
@@ -25,6 +25,11 @@ $ echo 1 > /dev/myled0
 ```
 $ echo 0 > /dev/myled0
 ```
-## Author
+## 文責
  - Hana Ikushima
+ - Minori Katou
  - https://tips-memo.com/python-readme
+## ライセンス
+　"myled" is under GNU General Public License v2.0.
+ 
+ Thank you!

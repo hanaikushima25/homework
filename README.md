@@ -27,7 +27,10 @@ $ echo 0 > /dev/myled0
 ```
 ## 文責
  - Hana Ikushima
+ - s20C1006NU@s.chibakoudai.jp
+## 参考
  - Minori Katou
+   https://github.com/MinoriKatou/LED
  - https://tips-memo.com/python-readme
 ## ライセンス
 　"myled" is under GNU General Public License v2.0.

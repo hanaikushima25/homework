@@ -38,6 +38,7 @@ $ echo 0 > /dev/myled0
  - Hana Ikushima
  - s20C1006NU@s.chibakoudai.jp
 ## 参考
+　READMEを書く際の参考にしました
  - Minori Katou
    https://github.com/MinoriKatou/LED
  - https://tips-memo.com/python-readme

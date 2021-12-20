@@ -43,6 +43,6 @@ $ echo 0 > /dev/myled0
    https://github.com/MinoriKatou/LED
  - https://tips-memo.com/python-readme
 ## ライセンス
-　"myled" is under GNU General Public License v2.0.
+　"myled" is under GNU General Public License v3.0.
  
  Thank you!
